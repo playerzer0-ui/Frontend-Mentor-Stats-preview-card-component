@@ -27,6 +27,9 @@ span {
     color: hsl(277, 64%, 61%);
 }
 
+.attribution { font-size: 11px; text-align: center; color: white; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
 .image-desktop {
     height: 340px;
     width: 413px;
