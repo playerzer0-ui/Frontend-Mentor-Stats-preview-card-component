@@ -14,7 +14,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 My very first challenge which shows a card with certain info (mobile not supported since I haven't learn it yet)
