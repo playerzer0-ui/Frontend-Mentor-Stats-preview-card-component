@@ -16,15 +16,12 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+My very first challenge which shows a card with certain info (mobile not supported since I haven't learn it yet)
 
 ### The challenge
 
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
+View the card on screen
 
 ### Screenshot
 
