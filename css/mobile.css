@@ -1,0 +1,51 @@
+@media (max-width: 375px){
+    body {
+        background-color: #0b0a1b;
+        margin: 0;
+    }
+
+    .container {
+        background-color: #1f1238;
+        margin: auto;
+        width: 300px;
+        height: 600px;
+        border-radius: 10px;
+    }
+
+    .image-desktop {
+        height: 240px;
+        width: 300px;
+        border-radius: 10px 10px 0 0;
+        z-index: -1;
+    }
+
+    .opacitifier {
+        float: right;
+        background-color: hsl(277, 100%, 37%);
+        border-radius: 10px 10px 0 0;
+        height: 240px;
+        width: 300px;
+        opacity: 99%;
+        position: relative;
+    }
+
+    .textbox {
+        text-align: center;
+        width: 250px;
+        height: 300px;
+        line-height: 1.5;
+        margin-top: 12em;
+        position: absolute;
+        left: 63px;
+    }
+
+    table {
+        text-align: center;
+        position: relative;
+        top: 15rem; 
+        left: 1rem;
+        border-spacing: 10px;
+        width: 2rem;
+        line-height: 0.5;
+    }
+}
